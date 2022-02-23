@@ -241,3 +241,38 @@
 .rowtxt{
   margin: 0 15px 0 15px;
 }
+
+.header3{
+  background-color: var(--orange);
+  height: 630px;
+color: var(--white);
+width: 100%;
+margin-top: 80px;
+}
+
+.header3 span{
+  color: var(--dark-blue);
+}
+
+.header3txt{
+  width: 1320px;
+  height: 424px;
+  color: var(--white);
+  border-radius: 50px;
+  position: relative;
+  margin: 0 auto;
+  background-size: cover;
+  margin-top: 80px;
+  font-size: 20px;
+  padding-bottom: 100px;
+}
+
+.header3txt  p  {
+padding-top: 10px;
+}
+
+
+
+.headerimg{
+  margin-top: -140px;
+}
